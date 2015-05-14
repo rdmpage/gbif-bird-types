@@ -1,0 +1,34 @@
+Please cite this data as follows, and pay attention to the rights documented in the rights.txt:
+Please respect the rights declared for each dataset in the download: 
+Senckenberg: Collection Crustacea SMF
+Natural History Museum of Los Angeles County: LACM Vertebrate Collection doi:10.15468/77rmwd
+AMNH Herpetology Collection doi:10.15468/jfkgyh
+MNHN - Museum national d'Histoire naturelle: Birds collection (ZO) of the Muséum national d'Histoire Naturelle (MNHN - Paris) doi:10.15468/h0xtwv
+Swedish Museum of Natural History: DINA doi:10.15468/xkearx
+Yale University Peabody Museum: Vertebrate Zoology Division - Ornithology, Yale Peabody Museum doi:10.15468/h25uz7
+Carnegie Museum of Natural History Birds Collection doi:10.15468/dv1ojv
+Academy of Natural Sciences: ORN
+AMNH Bird Collection
+Yale University Peabody Museum: Vertebrate Paleontology Division, Yale Peabody Museum doi:10.15468/ym5axs
+Aves Tanzanian collection at the Natural History Museum of Denmark (SNM)
+San Diego Natural History Museum Birds Collection (SDNHM) doi:10.15468/dot7ae
+Senckenberg: Collection Ornithologie - SNSD
+National Museum of Natural History, Smithsonian Institution: NMNH occurrence DwC-A doi:10.15468/dipjcr
+Senckenberg: Collection Aves (bird skins) SMF
+STERNA dataset, Royal Museum for Central Africa - Ornithology Collection: name-bearing types (accessed through GBIF data portal,  2010-11-19)
+Natural History Museum (2015): Collection specimens data.nhm.ac.uk., http://dx.doi.org/10.5519/0002965 doi:10.5519/0002965
+- doi:10.15468/fzn9sv
+Naturalis Biodiversity Center: Zoological Museum Amsterdam, University of Amsterdam (NL) - Aves
+Museum of Vertebrate Zoology (MVZ), University of California, Berkeley doi:10.15468/r1woj3
+University Museum of Zoology Cambridge, UMZC doi:10.15468/pjmjvn
+Delaware Museum of Natural History (DMNH) doi:10.15468/b63cw6
+MNHN - Museum national d'Histoire naturelle: Fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris) doi:10.15468/fjjmkb
+Moore Laboratory of Zoology (MLZ) doi:10.15468/1w791r
+Royal Belgian Institute of Natural Sciences: RBINS collections
+Canadian Museum of Nature, Bird Collection
+Museum of Comparative Zoology, Harvard University: Museum of Comparative Zoology, Harvard University doi:10.15468/p5rupv
+North Carolina Museum of Natural Sciences Vertebrate Paleontology Collection doi:10.15468/yksryn
+UMMZ Bird Collection doi:10.15468/lns1qm
+SysTax: SysTax -  Zoological Collections
+- doi:10.15468/mw2ak8
+UCLA Donald R. Dickey Bird and Mammal Collection doi:10.15468/qv6cxl

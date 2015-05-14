@@ -1,0 +1,97 @@
+
+
+Dataset: Collection Crustacea SMF
+Rights as supplied: Not supplied
+
+Dataset: LACM Vertebrate Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0 and http://vertnet.org/resources/norms.html
+
+Dataset: AMNH Herpetology Collections
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/ and http://www.vertnet.org/resources/norms.html
+
+Dataset: Birds collection (ZO) of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+Rights as supplied: Not supplied
+
+Dataset: DINA
+Rights as supplied: Not supplied
+
+Dataset: Vertebrate Zoology Division - Ornithology, Yale Peabody Museum
+Rights as supplied: Not supplied
+
+Dataset: CM Birds Collection
+Rights as supplied: Carnegie Museum of Natural History (CM) data records may be used by individual researchers or research groups, but they may not be repackaged, resold, or redistributed in any form without the express written consent of a curatorial staff member of the CM. If any of these records are used in an analysis or report, the provenance of the original data must be acknowledged and the CM notified. The CM and its staff are not responsible for damages, injury or loss due to the use of these data.
+
+Dataset: ORN
+Rights as supplied: Not supplied
+
+Dataset: AMNH Bird Collection
+Rights as supplied: The terms and conditions of use of AMNH data are given in the document found at http://research.amnh.org/vertzoo/TandC.pdf.
+
+Dataset: Vertebrate Paleontology Division, Yale Peabody Museum
+Rights as supplied: Not supplied
+
+Dataset: Aves Tanzanian collection at the Natural History Museum of Denmark (SNM)
+Rights as supplied: Zoological Museum - Natural History Museum of Denmark This work is licensed under a Creative Commons Attribution-Noncommercial License (http://creativecommons.org/licenses/by-nc/3.0/).
+
+Dataset: SDNHM Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/ and http://vertnet.org/resources/norms.html
+
+Dataset: Collection Ornithologie - SNSD
+Rights as supplied: Not supplied
+
+Dataset: NMNH occurrence DwC-A
+Rights as supplied: NMNH public data constitute a compilation of data, all rights to which, including copyright, are owned by the Smithsonian Institution. Except as otherwise expressly stated at http://www.mnh.si.edu/rc/db/2data_access_policy.html, the information, records, or images in these databases may not be reproduced, distributed, or publicly displayed, in whole or in part, without the express written permission of the National Museum of Natural History, Smithsonian Institution.
+
+Dataset: Collection Aves (bird skins) SMF
+Rights as supplied: Not supplied
+
+Dataset: STERNA dataset of the RMCA (Royal Museum for Central Africa) - Zoology/Ornithology Collection
+Rights as supplied: Not supplied
+
+Dataset: Natural History Museum (London) Collection Specimens, http://dx.doi.org/10.5519/0002965
+Rights as supplied: This work is licensed under a Creative Commons CCZero License/Waiver.
+
+Dataset: The Fish Collection at the Zoologische Staatssammlung München
+Rights as supplied: © Zoologische Staatssammlung München
+
+Dataset: Zoological Museum Amsterdam, University of Amsterdam (NL) - Aves
+Rights as supplied: Not supplied
+
+Dataset: MVZ Bird Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0
+
+Dataset: UMZC Zoological Specimens, UMZC
+Rights as supplied: http://www.zoo.cam.ac.uk/museum/collections.archives/academic.use/
+
+Dataset: DMNH Birds
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/ and http://www.vertnet.org/resources/norms.html
+
+Dataset: Fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+Rights as supplied: Not supplied
+
+Dataset: MLZ Bird Collection (Arctos)
+Rights as supplied: The data and media available through Arctos are the property of the originating institution, with all rights reserved. These records are intended for use in education and research and may not be repackaged, redistributed, or sold in any form without prior written consent from the collection(s) holding such data. Users wishing to include Arctos data or media in publications, reports, websites, or other means of dissemination must acknowledge the provenance of the original data, cite the institutional catalog number(s), and notify the appropriate curator. The date that information was accessed should be cited when downloaded data are used in published analyses. These are secondary data and their accuracy is not guaranteed. Citation of Arctos is no substitute for examination of specimens. The data providers are not responsible for loss or damages due to use of these data. http://arctosdb.org/home/data/
+
+Dataset: RBINS collections
+Rights as supplied: All data given access here are the sole property of the Royal Belgian Institute for Natural Sciences (RBINS) and are protected by the laws of copyright.   The reuse of data, for any purpose whatsoever, is subject to prior authorization given by the Royal Belgian Institute for Natural Sciences (RBINS).   For more informations, comments or details on the above lines, please contact the Royal Belgian Institute for Natural Sciences (RBINS).
+
+Dataset: Canadian Museum of Nature Bird Collection
+Rights as supplied: Data are provided for personal research only. Data may not be used for any commercial purposes. Data may not be transferred to another database for distribution to others without prior, written permission from the Canadian Museum of Nature.
+
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: Copyright © 2012 The President and Fellows of Harvard College
+
+Dataset: NCSM Vertebrate Paleontology Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0
+
+Dataset: UMMZ Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0
+
+Dataset: SysTax -  Zoological Collections
+Rights as supplied: Not supplied
+
+Dataset: The Paleontological Collections at the Bayerische Staatssammlung für Paläontologie und Geologie
+Rights as supplied: © Bayerische Staatssammlung für Paläontologie und Geologie
+
+Dataset: UCLA Donald R. Dickey Bird and Mammal Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0 and http://vertnet.org/resources/norms.html

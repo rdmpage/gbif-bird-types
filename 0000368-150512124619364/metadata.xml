@@ -1,0 +1,258 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="10.15468/dl.vce3ay"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier>0000368-150512124619364</alternateIdentifier>
+  <title>GBIF Occurrence Download 10.15468/dl.vce3ay</title>
+<creator>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress></creator>
+<metadataProvider>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress></metadataProvider>
+<associatedParty>
+    <individualName>
+<givenName>Rick</givenName>      <surName>Feeney</surName>
+    </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Fishes Collection Manager</positionName>    <address>
+<deliveryPoint>900 Exposition Blvd.</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 213 763 3374</phone><electronicMailAddress>rfeeney@nhm.org</electronicMailAddress><onlineUrl>http://www.nhm.org/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>David</givenName>      <surName>Dickey</surName>
+    </individualName>
+<organizationName>American Museum of Natural History</organizationName><positionName>Sr. Scientific Asst.</positionName>    <address>
+<deliveryPoint>Central Park West at 79th Street</deliveryPoint><city>New York</city><administrativeArea>NY</administrativeArea><postalCode>10024</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 212-313-7783</phone><electronicMailAddress>dickey@amnh.org</electronicMailAddress><onlineUrl>http://www.amnh.org/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Kevin</givenName>      <surName>Holston</surName>
+    </individualName>
+<organizationName>Swedish Museum of Natural History</organizationName><positionName>Curator</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>kevin.holston@nrm.se</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>http://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Stephen</givenName>      <surName>Rogers</surName>
+    </individualName>
+<organizationName>Carnegie Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>4400 Forbes Ave.</deliveryPoint><city>Pittsburgh</city><administrativeArea>PA</administrativeArea><postalCode>15213-4080</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 412-622-3255</phone><electronicMailAddress>rogerss@carnegiemnh.org</electronicMailAddress><onlineUrl>http://www.carnegiemnh.org/birds/index.html</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Tom</givenName>      <surName>Trombone</surName>
+    </individualName>
+<organizationName>American Museum of Natural History</organizationName><positionName>Data Manager</positionName>    <address>
+<deliveryPoint>Central Park West at 79th Street</deliveryPoint><city>New York</city><administrativeArea>NY</administrativeArea><postalCode>10024</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 212-313-7783</phone><electronicMailAddress>trombone@amnh.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Larry</givenName>      <surName>Gall</surName>
+    </individualName>
+<organizationName>Yale Peabody Museum</organizationName><positionName>Head, Computer Systems Office</positionName>    <address>
+<deliveryPoint>170 Whitney Avenue</deliveryPoint><city>New Haven</city><administrativeArea>CT</administrativeArea><postalCode>06511</postalCode><country>UNITED_STATES</country>    </address>
+<phone>203-432-9892</phone><electronicMailAddress>lawrence.gall@yale.edu</electronicMailAddress><onlineUrl>htttp://www.peabody.yale.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jon</givenName>      <surName>Fjeldså</surName>
+    </individualName>
+<organizationName>The natural History Museum of Denmark</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Universitetsparken 15</deliveryPoint><city>Copenhagen OE</city><postalCode>2100</postalCode><country>DENMARK</country>    </address>
+<phone>+45 35 32 10 23</phone><electronicMailAddress>jfjeldsaa@snm.ku.dk</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Philip</givenName>      <surName>Unitt</surName>
+    </individualName>
+<organizationName>San Diego Natural History Museum</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>1788 El Prado, Balboa Park</deliveryPoint><city>San Diego</city><administrativeArea>CA</administrativeArea><postalCode>92101</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 619-255-0235</phone><electronicMailAddress>birds@sdnhm.org</electronicMailAddress><onlineUrl>http://www.sdnhm.org/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Thomas</givenName>      <surName>Orrell</surName>
+    </individualName>
+<organizationName>National Museum of National History, Smithsonian Institution</organizationName><positionName>Branch Chief, NMNH Informatics</positionName>    <address>
+<deliveryPoint>12th St. and Constitution Ave. NW, MRC 136</deliveryPoint><city>Washington</city><administrativeArea>DC</administrativeArea><postalCode>20013-7012</postalCode><country>UNITED_STATES</country>    </address>
+<phone>202-633-2151</phone><electronicMailAddress>orrellt@si.edu</electronicMailAddress><onlineUrl>http://collections.mnh.si.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+<organizationName>The Natural History Museum, London</organizationName><electronicMailAddress>data@nhm.ac.uk</electronicMailAddress><onlineUrl>http://data.nhm.ac.uk</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Carla</givenName>      <surName>Cicero</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Birds</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 642-7868</phone><electronicMailAddress>ccicero@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Mathew</givenName>      <surName>Lowe</surName>
+    </individualName>
+<organizationName>University Museum of Zoology Cambridge (Zoology)</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>Downing Street</deliveryPoint><city>Cambridge</city><postalCode>CB2 3EJ</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>+44 (0) 1223 336659</phone><electronicMailAddress>mwl34@cam.ac.uk</electronicMailAddress><onlineUrl>http://www.zoo.cam.ac.uk/museum/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jean L.</givenName>      <surName>Woods, Ph.D.</surName>
+    </individualName>
+<organizationName>Delaware Museum of Natural History</organizationName><positionName>Curator of Birds</positionName>    <address>
+<deliveryPoint>4840 Kennett Pike</deliveryPoint><city>Wilmington</city><administrativeArea>DE</administrativeArea><postalCode>19807-0937</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 302-658-9111 -- 314</phone><electronicMailAddress>jwoods@delmnh.org</electronicMailAddress><onlineUrl>http://www.delmnh.org</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>John</givenName>      <surName>McCormack</surName>
+    </individualName>
+<organizationName>Moore Laboratory of Zoology</organizationName><positionName>Director/Curator</positionName>    <address>
+<deliveryPoint>1600 Campus Road, Occidental College</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(323) 259-1352</phone><electronicMailAddress>mccormack@oxy.edu</electronicMailAddress><onlineUrl>http://faculty.oxy.edu/mccormack/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>MCZ</givenName>      <surName>Harvard University</surName>
+    </individualName>
+<organizationName>Museum of Comparative Zoology</organizationName>    <address>
+<deliveryPoint>26 Oxford Street</deliveryPoint><city>Cambridge</city><administrativeArea>MA</administrativeArea><postalCode>02138</postalCode><country>UNITED_STATES</country>    </address>
+<onlineUrl>http://www.mcz.harvard.edu</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Ben</givenName>      <surName>Norton</surName>
+    </individualName>
+<organizationName>North Carolina Museum of Natural Sciences</organizationName><positionName>Collections Data Curator</positionName>    <address>
+<deliveryPoint>11 West Jones Street</deliveryPoint><city>Raleigh</city><administrativeArea>NC</administrativeArea><postalCode>27601</postalCode><country>UNITED_STATES</country>    </address>
+<phone>919-707-9947</phone><electronicMailAddress>ben.norton@naturalsciences.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Janet</givenName>      <surName>Hinshaw</surName>
+    </individualName>
+<organizationName>University of Michigan Museum of Zoology</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1109 Geddes Ave, 3020 Ruthven</deliveryPoint><city>Ann Arbor</city><administrativeArea>MI</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 734-764-0457</phone><electronicMailAddress>jhinshaw@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/ummz/birds</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Kathy</givenName>      <surName>Molina</surName>
+    </individualName>
+<organizationName>University of California, Los Angeles</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Department of Ecology &amp; Evolutionary Biology, Hershey Hall, 612 Charles Young Dr. East</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90095</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 310-825-1282</phone><electronicMailAddress>kmolina@obee.ucla.edu</electronicMailAddress><onlineUrl>http://www.eeb.ucla.edu/dickey/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<pubDate>
+        2015-05-13
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>A dataset containing all occurrences available in GBIF matching the query:
+TaxonKey: Aves 
+TypeStatus: Holotype 
+Issue: Taxon match higher rank
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Collection Crustacea SMF
+1 records from AMNH Herpetology Collections
+1 records from Aves Tanzanian collection at the Natural History Museum of Denmark (SNM)
+1 records from The Fish Collection at the Zoologische Staatssammlung München
+1 records from NCSM Vertebrate Paleontology Collection
+1 records from The Paleontological Collections at the Bayerische Staatssammlung für Paläontologie und Geologie
+2 records from SDNHM Birds Collection
+2 records from Fossil collection (F) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)
+2 records from RBINS collections
+3 records from DMNH Birds
+4 records from MLZ Bird Collection (Arctos)
+5 records from LACM Vertebrate Collection
+6 records from DINA
+6 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Aves
+8 records from Canadian Museum of Nature Bird Collection
+9 records from Collection Aves (bird skins) SMF
+9 records from MVZ Bird Collection (Arctos)
+11 records from Collection Ornithologie - SNSD
+14 records from STERNA dataset of the RMCA (Royal Museum for Central Africa) - Zoology/Ornithology Collection
+37 records from Vertebrate Zoology Division - Ornithology, Yale Peabody Museum
+42 records from Birds collection (ZO) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+44 records from Museum of Comparative Zoology, Harvard University
+46 records from Vertebrate Paleontology Division, Yale Peabody Museum
+53 records from UCLA Donald R. Dickey Bird and Mammal Collection
+58 records from CM Birds Collection
+61 records from UMZC Zoological Specimens
+66 records from UMMZ Birds Collection
+99 records from NMNH occurrence DwC-A
+196 records from ORN
+995 records from AMNH Bird Collection
+1197 records from SysTax -  Zoological Collections
+3409 records from Natural History Museum (London) Collection Specimens
+</para>
+</abstract>
+  <intellectualRights>
+    <para>The data included in this download are provided to the user under a Creative Commons BY-NC 4.0 license (http://creativecommons.org/licenses/by-nc/4.0) which means that you are free to use, share, and adapt the data provided that you give reasonable and appropriate credit (attribution) and that you do not use the material for commercial purposes (non-commercial).
+
+Data from some individual datasets included in this download may be licensed under less restrictive terms; review the details below.</para>
+  </intellectualRights>
+  <contact>
+    <individualName>
+      <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <citation identifier="10.15468/dl.vce3ay">GBIF Occurrence Download 10.15468/dl.vce3ay</citation>
+        <physical>
+          <objectName></objectName>
+          <characterEncoding>UTF-8</characterEncoding>
+          <dataFormat>
+            <externallyDefinedFormat>
+              <formatName>Darwin Core Archive</formatName>
+            </externallyDefinedFormat>
+          </dataFormat>
+          <distribution>
+            <online>
+              <url function="download">http://api.gbif.org/v1/occurrence/download/request/0000368-150512124619364.zip</url>
+            </online>
+          </distribution>
+        </physical>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,144 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="be5507b9-7abf-4b69-afe1-5ca2b7561734"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+      <alternateIdentifier system="doi.org">doi:10.15468/lns1qm</alternateIdentifier>
+    <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=ummz_birds</alternateIdentifier>
+    <alternateIdentifier>be5507b9-7abf-4b69-afe1-5ca2b7561734</alternateIdentifier>
+    <alternateIdentifier>14696</alternateIdentifier>
+  <title>UMMZ Birds Collection</title>
+<creator>
+    <individualName>
+<givenName>Janet</givenName>      <surName>Hinshaw</surName>
+    </individualName>
+<organizationName>University of Michigan Museum of Zoology</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1109 Geddes Ave, 3020 Ruthven</deliveryPoint><city>Ann Arbor</city><administrativeArea>MI</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 734-764-0457</phone><electronicMailAddress>jhinshaw@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/ummz/birds</onlineUrl></creator>
+<metadataProvider>
+    <individualName>
+<givenName>Janet</givenName>      <surName>Hinshaw</surName>
+    </individualName>
+<organizationName>University of Michigan Museum of Zoology</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1109 Geddes Ave, 3020 Ruthven</deliveryPoint><city>Ann Arbor</city><administrativeArea>MI</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 734-764-0457</phone><electronicMailAddress>jhinshaw@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/ummz/birds</onlineUrl></metadataProvider>
+<associatedParty>
+    <individualName>
+<givenName>John</givenName>      <surName>Torgersen</surName>
+    </individualName>
+<organizationName>University of Michigan LSAIT - Infrastructure</organizationName><positionName>Database Administrator</positionName>    <address>
+<deliveryPoint>LSA Building, 500 S. State Street, Suite 1112</deliveryPoint><city>Ann Arbor</city><administrativeArea>MI</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 734-615-1771</phone><electronicMailAddress>jtorg@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/lsait/</onlineUrl>    <role>POINT_OF_CONTACT</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>John</givenName>      <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>David</givenName>      <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Laura</givenName>      <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+</associatedParty>
+<pubDate>
+        2015-04-07
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>Through the efforts of University of Michigan faculty-curators and staff, the Museum of Zoology (UMMZ) develops and maintains excellent zoological collections explicitly for use in research and education benefiting science, society, and the university.&lt;/br&gt;&lt;/br&gt;
+
+The faculty staff and various graduate students of the Birds Division conduct research on the phylogenetic relationships, evolution and behavior of a wide variety of birds using museum collections, molecular techniques, and captive and field studies. &lt;/br&gt;&lt;/br&gt;
+
+The skins collection consists of approximately 176,000 specimens (6th largest in North America; about 2/3 of the species of the world), housed in 224 cases (133 double, 190 single, 1 triple), approximately 5000 sq. feet. In addition to study skins, the collection also includes other special preparations such as 1457 flat pelts and 636 spread wings and tails.
+The skin collection contains 317 holotypes and 3 lectotypes. These are not available for loan. An annotated list is available (UMMZ Misc. Publ. No. 174, R. W. Storer, 1988). A list and images of our types are available electronically. Extinct species are represented also.&lt;/br&gt;&lt;/br&gt;
+
+The skeletons collection represents approximately 23,800 specimens, 3,500 species (4th largest in the world in number of specimens, 2nd in number of species after the U.S. National Museum) stored in 60 cases, approximately 700 sq. feet. The only families missing are: Mesoenatidae, Rhynochetidae, Dromadidae, Leptosomatidae, Oxyrunchidae, Acanthisittidae, Atrichornithidae, Hyposittidae, and Callaeidae. About 1/2 of the skeleton specimens are from the United States. Other geographic areas for which we have larger collections include: Argentina (830), Australia (485), Canada (435), Costa Rica (1000), Egypt (1000), Ghana (490), Mexico (650), New Caledonia (140), Paraguay (1160), Philippines (340), Surinam (370), and Tanzania (340).&lt;/br&gt;&lt;/br&gt;
+
+Additional collections include:&lt;/br&gt;&lt;/br&gt;
+Eggs and nests: 4,600 egg sets and 573 nests in 26 cases.&lt;/br&gt;&lt;/br&gt;
+Fluid collection: 4,250 specimens (18th largest in the world), 464 linear feet of shelving and 27 linear feet of floor space for tanks. Also available are 1100 fluid preserved syrinxes.&lt;/br&gt;&lt;/br&gt;
+Frozen tissues: Samples from about 4,800 individuals stored in an ultra-cold freezer.</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <keywordSet>
+      <keyword>Specimen</keyword>
+      <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+  </keywordSet>
+  <intellectualRights>
+    <para>http://creativecommons.org/publicdomain/zero/1.0</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.lsa.umich.edu/ummz/birds/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>All geographic regions are represented, with specimens from 273 countries. About 109,000 specimens are from the United States, including 46,000 from Michigan. Other states which are well represented are Alaska, Arizona, the Dakotas, Florida, Kentucky, New Mexico, Tennessee, and Texas. Other areas of the world represented by large numbers of specimens are Canada, Labrador, Chiapas, Yucatan, Belize, Costa Rica, Panama, Paraguay, Egypt, sub-Saharan Africa, the Philippines, and southern Asia from Iran, Kashmir, and northern India to Assam.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-180</westBoundingCoordinate>
+          <eastBoundingCoordinate>180</eastBoundingCoordinate>
+          <northBoundingCoordinate>90</northBoundingCoordinate>
+          <southBoundingCoordinate>-90</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+      </temporalCoverage>
+        <taxonomicCoverage>
+            <generalTaxonomicCoverage>Of 172 families of living birds, 169 are represented. Of approximately 2057 genera of birds, we have 1792. The collection contains about 6,557 species and 40 hybrids. Particular strengths are in the grebes (Podicipediformes), shorebirds and alcids (Charadriiformes), African waxbills (Estrildidae) and viduine finches (Viduinae) in both skin and skeletal collections.</generalTaxonomicCoverage>
+            <taxonomicClassification>
+                <taxonRankName>Order</taxonRankName>
+              <taxonRankValue>Podicipediformes</taxonRankValue>
+                <commonName>grebes</commonName>
+            </taxonomicClassification>
+            <taxonomicClassification>
+                <taxonRankName>Order</taxonRankName>
+              <taxonRankValue>Charadriiformes</taxonRankValue>
+                <commonName>shorebirds and alcids</commonName>
+            </taxonomicClassification>
+            <taxonomicClassification>
+                <taxonRankName>Family</taxonRankName>
+              <taxonRankValue>Estrildidae</taxonRankValue>
+                <commonName>African waxbills</commonName>
+            </taxonomicClassification>
+            <taxonomicClassification>
+                <taxonRankName>Family</taxonRankName>
+              <taxonRankValue>Viduidae</taxonRankValue>
+                <commonName>viduine finches</commonName>
+            </taxonomicClassification>
+        </taxonomicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+<givenName>Janet Hinshaw</givenName>      <surName>Hinshaw</surName>
+    </individualName>
+<organizationName>University of Michigan Museum of Zoology</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1109 Geddes Ave, 3020 Ruthven, Ann Arbor, MI US, 48109</deliveryPoint><city>Ann Arbor</city><administrativeArea>MI</administrativeArea><postalCode>48109</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 734-764-0457</phone><electronicMailAddress>jhinshaw@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/ummz/birds</onlineUrl>  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2015-04-11T12:46:31.344+02:00</dateStamp>
+        <citation>UMMZ Bird Collection</citation>
+        <formationPeriod>1830s-present</formationPeriod>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,65 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="e242f598-69f3-4dbf-b4f6-d2a1c5f6986b"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+      <alternateIdentifier system="doi.org">doi:10.15468/xkearx</alternateIdentifier>
+    <alternateIdentifier>http://www.gbif.se/ipt/resource.do?r=dina</alternateIdentifier>
+    <alternateIdentifier>e242f598-69f3-4dbf-b4f6-d2a1c5f6986b</alternateIdentifier>
+    <alternateIdentifier>14949</alternateIdentifier>
+  <title>DINA</title>
+<creator>
+    <individualName>
+<givenName>Kevin</givenName>      <surName>Holston</surName>
+    </individualName>
+<organizationName>Swedish Museum of Natural History</organizationName><positionName>Curator</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>kevin.holston@nrm.se</electronicMailAddress></creator>
+<metadataProvider>
+    <individualName>
+<givenName>Anders</givenName>      <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Node manager</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress></metadataProvider>
+<associatedParty>
+    <individualName>
+<givenName>Anders</givenName>      <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Node manager</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>    <role>USER</role>
+</associatedParty>
+<pubDate>
+        2015-05-12
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>This database contains information on the so far registered specimens in the following collections of the Swedish Museum of Natural History (NRM): Entomology Collection Objects, Paleozoology, Paleobotany as well as observations from the Swedish Malaise Trap Project. It also contains information on the so far registered specimens in the Entomology collection of the Gothenburg Natural History Museum (GNM).</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <contact>
+    <individualName>
+<givenName>Kevin</givenName>      <surName>Holston</surName>
+    </individualName>
+<organizationName>Swedish Museum of Natural History</organizationName><positionName>Curator</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>kevin.holston@nrm.se</electronicMailAddress>  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2015-05-12T06:57:15.750+02:00</dateStamp>
+        <citation>Swedish Museum of Natural History: DINA</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

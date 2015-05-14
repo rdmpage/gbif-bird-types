@@ -1,0 +1,52 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="138bfea0-c063-11dd-a30f-b8a03c50a862"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier>685</alternateIdentifier>
+  <title>Zoological Museum Amsterdam, University of Amsterdam (NL) - Aves</title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<associatedParty>
+<positionName>[system administrator]</positionName><phone>+31.20.5255440</phone><electronicMailAddress>creuwels@uva.nl</electronicMailAddress></associatedParty>
+<associatedParty>
+<positionName>[system administrator]</positionName><phone>+31.20.5257191</phone><electronicMailAddress>yjong@uva.nl</electronicMailAddress></associatedParty>
+<associatedParty>
+<positionName>[data administrator]</positionName><phone>+31.20.5256903</phone><electronicMailAddress>T.G.Prins@uva.nl</electronicMailAddress></associatedParty>
+<associatedParty>
+<positionName>[data administrator]</positionName><phone>+31.20.5255438</phone><electronicMailAddress>r.vonk@uva.nl</electronicMailAddress></associatedParty>
+<associatedParty>
+<positionName>[data administrator]</positionName><electronicMailAddress>c.h.j.hof@uva.nl</electronicMailAddress></associatedParty>
+<language>en</language>
+<abstract>
+  <para>The bird collection of the Zoological Museum Amsterdam comprises approximately 65000 objects, including 55000 study skins, 4000 mounted specimens, 400 skeletons, 500 specimens on alcohol and an egg collection of 5000 clutches.
+The collection also holds 151 type specimens, i.e. 23 holotypes, 112 paratypes and 16 syntypes. 
+The oldest object is a skeleton of a Razorbill from 1827, but perhaps the extinct Great Auk and the Norfolk Island Kaka are older.
+At the moment 45000 objects are digitized.
+
+The ZMA bird collection holds one of the biggest collections of the Netherlands Antilles, Arctica and Antarctica and furthermore is specialized in Indonesia and the Western Palaearctic.
+
+For an historical overview of the bird collection, the type specimens in 3D and Threatened and the Extinct Species in the collection see the website of the Zoological Museum Amsterdam.</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://db01.nlbif.sara.nl/tapir/tapir.php/zma_aves</url>
+    </online>
+  </distribution>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2014-03-19T10:55:44.249+01:00</dateStamp>
+        <citation>Naturalis Biodiversity Center: Zoological Museum Amsterdam, University of Amsterdam (NL) - Aves</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

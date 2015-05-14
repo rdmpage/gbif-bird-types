@@ -1,0 +1,32 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="8658262c-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier>1897</alternateIdentifier>
+  <title>ORN</title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<associatedParty>
+<positionName>Biodiversity Database Programmer</positionName><phone>215-299-1177</phone><electronicMailAddress>bdim@ansp.org</electronicMailAddress></associatedParty>
+<language>en</language>
+<abstract>
+  <para></para>
+</abstract>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2014-05-14T03:29:36.357+02:00</dateStamp>
+        <citation>Academy of Natural Sciences: ORN</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

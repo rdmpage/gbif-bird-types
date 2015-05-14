@@ -1,0 +1,86 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="af3bce08-0599-45a6-9bfc-08188bcd868e"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+    <alternateIdentifier>13987</alternateIdentifier>
+  <title>Aves Tanzanian collection at the Natural History Museum of Denmark (SNM)</title>
+<creator>
+    <individualName>
+<givenName>Jon</givenName>      <surName>Fjeldså</surName>
+    </individualName>
+<organizationName>The natural History Museum of Denmark</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Universitetsparken 15</deliveryPoint><city>Copenhagen OE</city><postalCode>2100</postalCode><country>DENMARK</country>    </address>
+<phone>+45 35 32 10 23</phone><electronicMailAddress>jfjeldsaa@snm.ku.dk</electronicMailAddress></creator>
+<metadataProvider>
+    <individualName>
+<givenName>Jon</givenName>      <surName>Fjeldså</surName>
+    </individualName>
+<organizationName>The natural History Museum of Denmark</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Universitetsparken 15</deliveryPoint><city>Copenhagen OE</city><postalCode>2100</postalCode><country>DENMARK</country>    </address>
+<phone>+45 35 32 10 23</phone><electronicMailAddress>jfjeldsaa@snm.ku.dk</electronicMailAddress></metadataProvider>
+<pubDate>
+        2015-01-20
+</pubDate>
+<language>ENGLISH</language>
+<abstract>
+  <para>Collections from Tanzania and the Eastern Arc Mts in particular, in the Zoological Museum, Natural History Museum of Denmark.  The Zoological Museum of the Natural History Museum has a long tradition for field work in Tanzania, and in particular in the forests of the Eastern Arc Mountains. In addition to these recent collecting efforts, the museum houses bird material collected 1947-67 in all parts of the country by the Danish plantation owner Thorkild Andersen. Today, our bird collections from Tanzania are among the largest in the world. We should like to see our collections and the associated data being increasingly utilized for scientific research, conservation and education, and to fulfill this goal we are here making part of the data available online. 9605 records, covering 18 Orders; 64 Families; 283 Genera; 621 Species. 1503 records with image links.</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <keywordSet>
+      <keyword>Specimen</keyword>
+      <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+  </keywordSet>
+  <intellectualRights>
+    <para>Zoological Museum - Natural History Museum of Denmark This work is licensed under a Creative Commons Attribution-Noncommercial License (http://creativecommons.org/licenses/by-nc/3.0/).</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Tanzania</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-180</westBoundingCoordinate>
+          <eastBoundingCoordinate>180</eastBoundingCoordinate>
+          <northBoundingCoordinate>90</northBoundingCoordinate>
+          <southBoundingCoordinate>-90</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+        <taxonomicCoverage>
+            <taxonomicClassification>
+                <taxonRankName>Kingdom</taxonRankName>
+              <taxonRankValue>Animalia</taxonRankValue>
+            </taxonomicClassification>
+            <taxonomicClassification>
+                <taxonRankName>Phylum</taxonRankName>
+              <taxonRankValue>Chordata</taxonRankValue>
+            </taxonomicClassification>
+            <taxonomicClassification>
+                <taxonRankName>Class</taxonRankName>
+              <taxonRankValue>Aves</taxonRankValue>
+            </taxonomicClassification>
+        </taxonomicCoverage>
+  </coverage>
+  <contact>
+    <individualName>
+<givenName>Jon</givenName>      <surName>Fjeldså</surName>
+    </individualName>
+<organizationName>The natural History Museum of Denmark</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Universitetsparken 15</deliveryPoint><city>Copenhagen OE</city><postalCode>2100</postalCode><country>DENMARK</country>    </address>
+<phone>+45 35 32 10 23</phone><electronicMailAddress>jfjeldsaa@snm.ku.dk</electronicMailAddress>  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2015-01-20T08:55:27.508+01:00</dateStamp>
+        <citation>Aves Tanzanian collection at the Natural History Museum of Denmark (SNM)</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

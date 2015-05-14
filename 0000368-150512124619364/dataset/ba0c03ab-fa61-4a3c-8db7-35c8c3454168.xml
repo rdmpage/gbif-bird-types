@@ -1,0 +1,92 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="ba0c03ab-fa61-4a3c-8db7-35c8c3454168"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+      <alternateIdentifier system="doi.org">doi:10.15468/h0xtwv</alternateIdentifier>
+    <alternateIdentifier>http://collections.mnhn.fr/ipt/resource.do?r=mnhn-zo</alternateIdentifier>
+    <alternateIdentifier>ba0c03ab-fa61-4a3c-8db7-35c8c3454168</alternateIdentifier>
+    <alternateIdentifier>13704</alternateIdentifier>
+  <title>Birds collection (ZO) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)</title>
+<creator>
+    <individualName>
+      <surName>MNHN</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Provider</positionName></creator>
+<metadataProvider>
+    <individualName>
+<givenName>Simon</givenName>      <surName>Chagnoux</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><electronicMailAddress>gbifprovider@mnhn.fr</electronicMailAddress></metadataProvider>
+<associatedParty>
+    <individualName>
+<givenName>Christine</givenName>      <surName>Lefèvre</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Jérôme</givenName>      <surName>Fuchs</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Cécile</givenName>      <surName>Callou</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+</associatedParty>
+<associatedParty>
+    <individualName>
+<givenName>Patrick</givenName>      <surName>Boussès</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+</associatedParty>
+<pubDate>
+        2015-04-17
+</pubDate>
+<language>FRENCH</language>
+<abstract>
+  <para>Two databases concern the bird collections of the Muséum national d&apos;Histoire naturelle de Paris.
+The database AVES covers skins and mounted specimens, but the collection includes also eggs, nests and alcoholic preparations. Today, this collection numbers some 180 000 specimens, including approximately 2500 types. Search results follow Howard and Moore Checklist (updated to corrigenda) and taxonomic sequence. The upper geographical rank conforms to the ISO 3166-1 code. Undetermined locality does not necessarily mean that the information is no available, but that its validity has not yet been checked. This and others additional information are sometime accessible by consulting label photographs that we progressively add to the database.
+The database ZAC (acronym for “Zoology, Comparative anatomy”) exists since 2010. It is the result of the merger of MAMMALIA (former collection of “Zoologie, Mammifères et Oiseaux”) and ANATOMIC (former collection of “Anatomie comparée”). This database concerns skeletons (mounted or not) and fluid preserved specimens (formalin).
+More information can be obtained by writing to the curators and collection managers. The database will help you prepare loan requests or visits to the collection. For any request contact: http://colhelper.mnhn.fr/</para>
+</abstract>
+  <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+  </keywordSet>
+  <keywordSet>
+      <keyword>Specimen</keyword>
+      <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+  </keywordSet>
+  <keywordSet>
+      <keyword>Types</keyword>
+      <keyword>Zoology</keyword>
+      <keyword>Collections</keyword>
+      <keyword>Taxonomy</keyword>
+      <keyword>Vertebrates</keyword>
+      <keyword>Birds</keyword>
+      <keyword>Specimens</keyword>
+      <keywordThesaurus>No keyword thesaurus designated</keywordThesaurus>
+  </keywordSet>
+  <contact>
+    <individualName>
+<givenName>Patrick</givenName>      <surName>Boussès</surName>
+    </individualName>
+<organizationName>MNHN</organizationName><positionName>Correspondant</positionName><electronicMailAddress>bousses@mnhn.fr</electronicMailAddress>  </contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2015-04-17T05:03:25.107+02:00</dateStamp>
+        <citation>MNHN - Museum national d&apos;Histoire naturelle: Birds collection (ZO) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

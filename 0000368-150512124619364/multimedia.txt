@@ -1,0 +1,1350 @@
+gbifID	type	format	identifier	references	title	description	created	creator	contributor	publisher	audience	source	license	rightsHolder
+317834793				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7346		zoomable image								
+317834793	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7346.jpg			thumbnail								
+317834793				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7347		zoomable image								
+317834793	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7347.jpg			thumbnail								
+317834793				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7348		zoomable image								
+317834793	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7348.jpg			thumbnail								
+1045030587				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90735										
+1045032927				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64417										
+1045032927				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64418										
+1045032927				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64419										
+1052770498				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80088										
+1039434780				http://deliver.odai.yale.edu/content/repository/YPM/id/350143/format/3										
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061182048357XHBGskqF2bsBVZ4										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118772328i34f64oAUFo8Njqi										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118775077CMMYirdxoVVS1dmz										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118777532uohbxLhvWO43G0DM										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118779909c8YLXhfrm90tVAjn										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118780991v5Q8cdUYn1ThzIdU										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061187819733c8r4bdRikpPwKdM										cc-by-nc-nd	
+1019443003	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118783396ogaOYYdVdA1tesEz										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406115387819jLtz9AbitzqrZAPD										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406115413074upGCFr26undO09rY										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116101560novfA4hjiX6FJayI										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116102418ZJGScvSph6TBvwXv										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116103191S9jBBIqn2UeQt9JZ										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116103976DJvKpirqrYDdg7Xo										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116104559dZ4e945E40n0BvHN										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116105308jsiS0CrIaoUKIrZt										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116105989okZXp6iat4iau6fi										cc-by-nc-nd	
+1019444554	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116106590bSm2L4d0UexeRaue										cc-by-nc-nd	
+1059578923				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80086										
+1059584104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64938										
+1059584104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64939										
+1059584104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64940										
+1038217182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80325										
+1038046962				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81846										
+1038051681				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79913										
+1038154212				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65366										
+1038154212				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65706										
+1038154308				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81997										
+1038168699				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90806										
+1038173781				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65055										
+1038173781				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65056										
+1038173781				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65057										
+1038204603				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64606										
+1038204603				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64607										
+1038204603				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64608										
+1038204603				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64609										
+1037990862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64848										
+1037990862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64849										
+1037990862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64850										
+1038009972				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79825										
+1038012084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64584										
+1038012084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64585										
+1038012084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64586										
+1038020922				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65528										
+1038020922				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65529										
+1038026175				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79916										
+1038032244				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80360										
+1038036075				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80186										
+1045019143				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65219										
+1045019143				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65220										
+1045030588				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90678										
+883604166				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+885912483				http://collections.mnh.si.edu/media/index.php?irn=3011238										
+317834794				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8269		zoomable image								
+317834794	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8269.jpg			thumbnail								
+317834794				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8271		zoomable image								
+317834794	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8271.jpg			thumbnail								
+317834794				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8273		zoomable image								
+317834794	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8273.jpg			thumbnail								
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117635795ftiZyJRpWFzHQIWv										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117637176FoXUBLiKHvo1nYL3										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117638852H03aO3T1WfV0f5Cf										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117639664dCFqcD0DOe7LR391										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061176402799Uy98PDuVSUFYr9c										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117640901t8C1E1pXNk9HOJSe										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061176415290HcdBY6n4AjLDrk7										cc-by-nc-nd	
+1019444357	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061176424775JfvkKq0BvJnIRGz										cc-by-nc-nd	
+1038214702				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65391										
+1038214702				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65392										
+1038061087				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90759										
+1038086464				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79778										
+1038086497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80336										
+1038095440				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102629										
+1038095440				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102630										
+1038095440				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102632										
+1038095440				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102633										
+1038095440				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102634										
+1038105109				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65636										
+1038105109				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65637										
+1038125833				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85877										
+1038125833				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85878										
+1038125833				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85879										
+1038133489				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80324										
+1038154213				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65361										
+1038154213				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65362										
+1038154774				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85581										
+1038154774				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85583										
+1038154774				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85585										
+1038165859				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65466										
+1038165859				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65467										
+1038165862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65468										
+1038165862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65469										
+1038165862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65470										
+1038168670				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90751										
+1038181468				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79963										
+1038203845				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84884										
+1038203845				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84886										
+1038203845				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84888										
+1038212197				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80172										
+1038008260				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80217										
+1038011983				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65457										
+1038011983				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65458										
+1038012049				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64692										
+1038012049				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64693										
+1038012049				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64694										
+1038021748				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79791										
+1038021784				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80342										
+1038025975				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81958										
+1038035842				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79865										
+1038046006				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64686										
+1038046006				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64687										
+1038046006				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64688										
+883530736				http://collections.mnh.si.edu/media/index.php?irn=3011275										
+1038020924				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65591										
+1038020924				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65592										
+1038034949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65704										
+1038034949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65705										
+1038035054				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65507										
+1038035054				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65508										
+1038046829				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80371										
+1038080456				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65258										
+1038080456				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65260										
+1038084416				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80387										
+1038098480				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64882										
+1038098480				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64883										
+1038098480				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64884										
+1038119996				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79899										
+1038125735				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85120										
+1038125735				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85122										
+1038125735				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85124										
+1038164084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85714										
+1038164084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85715										
+1038164084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85716										
+1038165896				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64535										
+1038165896				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64536										
+1038165896				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64537										
+1038181337				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64176										
+1038181337				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64178										
+1038181337				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64180										
+1038181337				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64182										
+1038181337				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64183										
+1038202988				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65605										
+1038202988				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65606										
+1038214703				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65735										
+1038214703				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65736										
+1038214934				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80278										
+1038215432				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65409										
+1038215432				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65410										
+1038221501				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85652										
+1038221501				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85653										
+1038221501				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85654										
+1037987240				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79958										
+1037994956				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80040										
+1037996408				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102689										
+1037996408				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102690										
+1037996408				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102691										
+1037996408				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102692										
+1038012644				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79835										
+1038015221				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90699										
+1045068836				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64453										
+1045068836				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64454										
+1045068836				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64455										
+1045068836				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64456										
+1045033035				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81988										
+1045068936				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64800										
+1045068936				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64801										
+1045068936				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64802										
+1059584008				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65443										
+1059584008				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65444										
+1038060954				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65462										
+1038060954				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65463										
+1038061056				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64806										
+1038061056				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64807										
+1038061056				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64808										
+1038061092				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90846										
+1038075936				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84511										
+1038075936				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84513										
+1038075936				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84515										
+1038085542				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85339										
+1038085542				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85341										
+1038085542				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85343										
+1038134088				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64639										
+1038134088				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64640										
+1038134088				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64641										
+1038134088				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64642										
+1038134088				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64643										
+1038168504				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102497										
+1038168504				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102498										
+1038168504				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102499										
+1038168504				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102500										
+1038168504				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102501										
+1038179100				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85621										
+1038179100				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85623										
+1038179100				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85625										
+1038187776				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65589										
+1038187776				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65590										
+1038211206				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80082										
+1038214704				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65369										
+1038214704				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65370										
+1038008262				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80265										
+1038008523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106565										
+1038008523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106566										
+1038008523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106567										
+1038008523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106568										
+1038028518				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90848										
+1038032214				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80173										
+1038036108				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80367										
+1038051978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106557										
+1038051978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106558										
+1038051978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106559										
+1038051978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106560										
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515382645p8l48lGYgR40TALG											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515384464UcnJ5N2JOdVMci3e											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515385511EZpXm5e0ziM2mG3o											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515386597iqUFTsV8BKVH0cZf											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515387419AHBtQBztOMiFegM6											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515388219o0TiBjOcOsDkK3B5											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515388720DUdY0TFUkJe85bCv											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515389200mkfiRmhdxMTasXml											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14175153901485U8SdtyQbrJIC0n0											
+1042804331	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1417515391217p0a3nYY6XJmSqHit											
+885761339				http://collections.mnh.si.edu/media/index.php?irn=3011317										
+886011028				http://collections.mnh.si.edu/media/index.php?irn=3009462										
+886012004				http://collections.mnh.si.edu/media/index.php?irn=3009475										
+883603920				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+317834713				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8127		zoomable image								
+317834713	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8127.jpg			thumbnail								
+317834713				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8128		zoomable image								
+317834713	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8128.jpg			thumbnail								
+317834713				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8129		zoomable image								
+317834713	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8129.jpg			thumbnail								
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117876325b2vHY8oPHVHPYOaj										cc-by-nc-nd	
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117877795fFF5B0mKVAcxZ7SL										cc-by-nc-nd	
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117879051SKBwMHhjqECtAPQZ										cc-by-nc-nd	
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117880258C3yY8zrKNNJy1Lqb										cc-by-nc-nd	
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117881081mXUGYKYtFs86F1Fn										cc-by-nc-nd	
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117896567Ll87mqNBY6xfhT2V										cc-by-nc-nd	
+1019444378	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117898355WDXqOFLnaOeQtFJW										cc-by-nc-nd	
+1037977393				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102669										
+1037977393				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102670										
+1037977393				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102671										
+1037977393				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102672										
+1037977393				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102673										
+1037977393				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102674										
+1038008146				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64491										
+1038008146				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64492										
+1038008146				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64493										
+1038008146				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64494										
+1038008146				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64495										
+1038025501				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64289										
+1038025501				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64292										
+1038025501				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64293										
+1038045994				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64188										
+1038045994				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64189										
+1038045994				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64256										
+1038099223				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79851										
+1038212776				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80289										
+1038214819				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64510										
+1038214819				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64511										
+1038214819				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64512										
+1038214819				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64513										
+1038219283				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80146										
+1038115495				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90725										
+1038142417				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64635										
+1038142417				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64636										
+1038142417				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64652										
+1038151561				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85416										
+1038151561				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85418										
+1038151561				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85420										
+1038190762				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65685										
+1038190762				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65686										
+1038190762				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65687										
+1038202348				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102801										
+1038202348				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102802										
+1038202348				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102803										
+1038202348				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102804										
+1038202348				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102805										
+1045037476				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85603										
+1045037476				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85605										
+1045037476				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85607										
+885928342				http://collections.mnh.si.edu/media/index.php?irn=3009412										
+885003607				http://collections.mnh.si.edu/media/index.php?irn=3009501										
+885210418				http://collections.mnh.si.edu/media/index.php?irn=3009527										
+883825315				http://collections.mnh.si.edu/media/index.php?irn=3009430										
+317834807				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7858_black		zoomable image								
+317834807	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7858_black.jpg			thumbnail								
+317834807				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7859_black		zoomable image								
+317834807	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7859_black.jpg			thumbnail								
+317834807				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7860_black		zoomable image								
+317834807	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7860_black.jpg			thumbnail								
+1039416353				http://deliver.odai.yale.edu/content/repository/YPM/id/349990/format/3										
+1045036910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65758										
+1045036910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65759										
+1045037801				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79968										
+1059584061				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79877										
+1059585381				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103127										
+1059585381				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103128										
+1059585381				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103129										
+1059585381				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103130										
+1059585381				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103131										
+1059585381				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103132										
+1059595311				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64680										
+1059595311				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64681										
+1059595311				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64682										
+1038211223				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80120										
+1038125753				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84463										
+1038125753				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84464										
+1038125753				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84465										
+1038149513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80204										
+1038154199				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65643										
+1038154199				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65644										
+1038189281				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81957										
+1038195248				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65337										
+1038195248				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65339										
+1038005798				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85705										
+1038005798				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85706										
+1038005798				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85707										
+1038008180				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80054										
+1038012068				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64420										
+1038012068				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64422										
+1038012068				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65058										
+1038025466				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65662										
+1038025466				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65663										
+1038063938				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85814										
+1038063938				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85815										
+1038063938				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85816										
+1038076022				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80373										
+1038076055				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80279										
+1038080438				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65519										
+1038080438				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65520										
+1038080438				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65521										
+883612647				http://collections.mnh.si.edu/media/index.php?irn=3011215										
+885965022				http://collections.mnh.si.edu/media/index.php?irn=3009416										
+1045037821				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80042										
+1045068874				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64444										
+1045068874				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64445										
+1045068874				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64446										
+1045068874				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64447										
+1045069105				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84595										
+1045069105				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84597										
+1045069105				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84599										
+1019804561	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1397554587837am8ZvS8UY6KtYKZg					Christian LEMZAOUDA					cc-by-nc-nd	
+1038061549				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81899										
+1038079474				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106639										
+1038079474				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106640										
+1038079474				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106641										
+1038079474				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106642										
+1038094288				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65482										
+1038094288				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65483										
+1038094288				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65484										
+1038115411				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80271										
+1038152236				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79862										
+1038167092				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80382										
+1038186949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64548										
+1038186949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64549										
+1038186949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64550										
+1038190513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102964										
+1038190513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102965										
+1038190513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102966										
+1038190513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102967										
+1038190513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102968										
+1038190513				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102969										
+1038199624				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102562										
+1038199624				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102563										
+1038199624				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102564										
+1038199624				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102565										
+1038199624				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102566										
+1038210709				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64340										
+1038210709				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64341										
+1038210709				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64342										
+1038214705				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65737										
+1038214705				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65738										
+1038214705				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65739										
+1037987143				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80125										
+1037987374				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81974										
+1038015319				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90818										
+1038035812				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79898										
+1038035911				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81829										
+884679019				http://collections.mnh.si.edu/media/index.php?irn=3009499										
+883820755				http://collections.mnh.si.edu/media/index.php?irn=3009500										
+1038049847				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80223										
+1038061100				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90825										
+1038063278				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102909										
+1038063278				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102910										
+1038063278				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102911										
+1038063278				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102912										
+1038063278				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102913										
+1038085553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64648										
+1038085553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64649										
+1038085553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64650										
+1038085553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64651										
+1038085553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64993										
+1038086507				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80318										
+1038094430				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64563										
+1038094430				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64564										
+1038094430				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64565										
+1038094430				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64566										
+1038094430				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64567										
+1038115391				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80248										
+1038116480				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65751										
+1038116480				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65752										
+1038188906				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85434										
+1038188906				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85436										
+1038188906				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85438										
+1038195209				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65331										
+1038195209				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65332										
+1037987744				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85685										
+1037987744				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85686										
+1037987744				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85687										
+1037990351				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79870										
+1037994968				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79892										
+1038021632				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85149										
+1038021632				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85151										
+1038021632				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85153										
+1038026024				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79927										
+1038033608				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79861										
+1038035129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64313										
+1038035129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64314										
+1038035129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64316										
+1056357436	StillImage	image/jpeg	http://www.nhm.ac.uk/emu-classes/class.EMuMedia.php?irn=81256&image=yes&width=705&height=548		BBOC_lviii_p32_1937								http://creativecommons.org/licenses/by/4.0/	The Trustees of the Natural History Museum, London
+885896347				http://collections.mnh.si.edu/media/index.php?irn=3011241										
+885896383				http://collections.mnh.si.edu/media/index.php?irn=3011245										
+885943375				http://collections.mnh.si.edu/media/index.php?irn=3008134										
+886010007				http://collections.mnh.si.edu/media/index.php?irn=3009506										
+883527016				http://collections.mnh.si.edu/media/index.php?irn=3011310										
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113573239xTZTEEzu8DyZzhcz										cc-by-nc-nd	
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113575334JX5Gpt63zmYyUSRg										cc-by-nc-nd	
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113576745soXBkzQRHca1c8mY										cc-by-nc-nd	
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061135781602vNVxSNWmlb49kEV										cc-by-nc-nd	
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113578734spglO9zt2NFOm78E										cc-by-nc-nd	
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113579377AxzWcjMMawthyvDT										cc-by-nc-nd	
+730516961	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116812483Yuzx2wXPzYqvLS4J										cc-by-nc-nd	
+317834798				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7928		zoomable image								
+317834798	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7928.jpg			thumbnail								
+317834798				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7929		zoomable image								
+317834798	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7929.jpg			thumbnail								
+317834798				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7930		zoomable image								
+317834798	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7930.jpg			thumbnail								
+1045030595				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90852										
+1059595233				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65582										
+1059595233				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65583										
+1037980244				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85750										
+1037980244				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85751										
+1037980244				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85752										
+1037987207				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80122										
+1038011987				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65668										
+1038011987				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65669										
+1038025982				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81985										
+1038035750				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81940										
+1038035909				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80320										
+1038063959				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65295										
+1038063959				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65296										
+1038063959				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65297										
+1038078122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102975										
+1038078122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102976										
+1038078122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102977										
+1038078122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102978										
+1038078122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102979										
+1038197186				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81827										
+1038199232				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81964										
+1038212270				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80255										
+1038125972				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90739										
+1038129866				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65570										
+1038129866				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65571										
+1038129866				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65572										
+1038133463				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81978										
+1038154217				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65707										
+1038154217				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65708										
+1038154220				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65711										
+1038154220				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65712										
+1038154220				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65713										
+1038159797				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65429										
+1038159797				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65430										
+1038168638				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90667										
+1038184742				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65660										
+1038184742				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65661										
+1038190745				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65692										
+1038190745				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65693										
+1045033074				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81955										
+883603184				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+886005130				http://collections.mnh.si.edu/media/index.php?irn=3009472										
+317834766				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8263		zoomable image								
+317834766	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8263.jpg			thumbnail								
+317834766				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8267		zoomable image								
+317834766	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8267.jpg			thumbnail								
+317834766				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8268		zoomable image								
+317834766	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8268.jpg			thumbnail								
+1038060960				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64774										
+1038060960				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64775										
+1038060960				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64776										
+1038061026				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64827										
+1038061026				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64828										
+1038061026				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64829										
+1038068160				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65601										
+1038068160				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65602										
+1038075939				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84555										
+1038075939				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84557										
+1038075939				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84559										
+1038075939				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85883										
+1038075942				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65206										
+1038075942				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65208										
+1038076011				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106522										
+1038076011				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106523										
+1038076011				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106524										
+1038076011				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106525										
+1038115347				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65253										
+1038115347				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65254										
+1038119637				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64317										
+1038119637				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64319										
+1038119637				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64321										
+1038146202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102876										
+1038146202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102877										
+1038146202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102878										
+1038146202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102879										
+1038152142				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102675										
+1038152142				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102676										
+1038152142				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102677										
+1038152142				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102678										
+1038152142				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102679										
+1038154218				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65345										
+1038154218				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65346										
+1038154218				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65347										
+1038154221				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65714										
+1038154221				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65715										
+1038154221				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65716										
+1038165900				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64242										
+1038165900				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64243										
+1038165900				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64245										
+1038165900				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65053										
+1038184776				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64485										
+1038184776				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64486										
+1038184776				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64487										
+1038199233				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81966										
+1037977278				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80378										
+1038014235				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85363										
+1038014235				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85365										
+1038014235				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85367										
+1038021756				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80339										
+1038037728				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85345										
+1038037728				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85347										
+1038037728				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85349										
+1038037863				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90819										
+317834682				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7820		zoomable image								
+317834682	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7820.jpg			thumbnail								
+317834682				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7822		zoomable image								
+317834682	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7822.jpg			thumbnail								
+317834682				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7825		zoomable image								
+317834682	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7825.jpg			thumbnail								
+317834712				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8114		zoomable image								
+317834712	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8114.jpg			thumbnail								
+317834712				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8116		zoomable image								
+317834712	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8116.jpg			thumbnail								
+317834712				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8117		zoomable image								
+317834712	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8117.jpg			thumbnail								
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061118074857OfgtxjkEmSAWOvy										cc-by-nc-nd	
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406111813686ULzhji7jixpMks14										cc-by-nc-nd	
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406111850601DNyJnwCPrEXUg8Su										cc-by-nc-nd	
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406115227282DfJVczfZ8Km5qvqP										cc-by-nc-nd	
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406115228058apECLBVJTaSBAP68										cc-by-nc-nd	
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118121078f7MyIxcQWZitdHp7										cc-by-nc-nd	
+1019444311	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118751322ltyOQBLoiGvxLd5z										cc-by-nc-nd	
+1052770486				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65731										
+1052770486				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65732										
+1037990553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65216										
+1037990553				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65217										
+1037998182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64414										
+1037998182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64415										
+1037998182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64416										
+1038006132				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80003										
+1038068169				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65375										
+1038068169				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65376										
+1038075990				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65183										
+1038075990				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65184										
+1038075990				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65185										
+1038082062				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64879										
+1038082062				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64880										
+1038082062				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64881										
+1038094269				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65778										
+1038094269				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65779										
+1038103611				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90742										
+1038124665				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81993										
+1038125949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90714										
+1038154200				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65618										
+1038154200				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65619										
+1038168720				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90832										
+1038183666				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84670										
+1038183666				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84672										
+1038183666				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84674										
+1038198981				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64854										
+1038198981				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64855										
+1038198981				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64856										
+1045029816				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65460										
+1045029816				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65461										
+1045030605				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90853										
+886013873				http://collections.mnh.si.edu/media/index.php?irn=3009460										
+317834767				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8259		zoomable image								
+317834767	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8259.jpg			thumbnail								
+317834767				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8261		zoomable image								
+317834767	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8261.jpg			thumbnail								
+317834767				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8262		zoomable image								
+317834767	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8262.jpg			thumbnail								
+1059584084				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80364										
+1059587780				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65477										
+1059587780				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65478										
+1045068877				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64373										
+1045068877				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64374										
+1045068877				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64375										
+1045068877				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64377										
+1045068877				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64378										
+1037987410				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80098										
+1037991862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85321										
+1037991862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85323										
+1037991862				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85325										
+1038012520				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79993										
+1038015259				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90704										
+1038026053				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80383										
+1038032122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65427										
+1038032122				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65428										
+1038034957				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65514										
+1038034957				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65515										
+1038034957				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65516										
+1038049843				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79845										
+1038052021				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90855										
+1038080428				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65522										
+1038080428				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65623										
+1038214708				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65373										
+1038214708				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65374										
+1038214711				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65367										
+1038214711				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65368										
+1038214711				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65740										
+1038105091				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65626										
+1038105091				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65627										
+1038105121				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64307										
+1038105121				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64309										
+1038105121				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64773										
+1038125938				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90755										
+1038131908				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65556										
+1038131908				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65584										
+1038131908				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65585										
+1038141943				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80201										
+1038168676				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90736										
+1038170851				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64851										
+1038170851				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64852										
+1038170851				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64853										
+1038181477				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64295										
+1038181477				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64296										
+1038181477				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64298										
+1038181969				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80330										
+1038184777				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80348										
+1038205210				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65435										
+1038205210				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65436										
+1039388389				http://deliver.odai.yale.edu/content/repository/YPM/id/349903/format/3										
+1038061071				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90697										
+1038068166				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65749										
+1038068166				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65750										
+1038075984				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80308										
+1038078819				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65658										
+1038078819				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65659										
+1038085554				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85333										
+1038085554				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85335										
+1038085554				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85337										
+1038086478				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80241										
+1038089484				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80055										
+1038105027				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65632										
+1038105027				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65633										
+1038134070				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64890										
+1038134070				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64891										
+1038134070				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64892										
+1038154197				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65485										
+1038154197				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65486										
+1038174720				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80047										
+1038181485				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79966										
+1038183498				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81852										
+1038198810				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65401										
+1038198810				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65402										
+1038198876				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65414										
+1038198876				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65415										
+1038202968				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65609										
+1038202968				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65610										
+1038202968				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65611										
+1038210723				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81845										
+1038212277				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80181										
+1038214884				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81970										
+1038221550				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64666										
+1038221550				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64667										
+1038221550				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64668										
+1037977290				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80269										
+1037977386				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84591										
+1037977386				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84593										
+1037977386				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85841										
+1038026193				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80212										
+1038035067				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64236										
+1038035067				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64237										
+1038035067				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64257										
+1038035889				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80312										
+1038035922				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80192										
+1045030635				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90745										
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/141863549268020aGhwahQGtVhBMJ											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1418635503840ErTK0jIUdCmszKh5											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1418635505277j15xHu0bc2FmJjF2											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14186355065295owX3vS52nsOn45z											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1418635507259DI7iSNo9jplixPpI											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14186355078912KbTqisZQLfJ1diw											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1418635508618uMB0syieydx7N5LK											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14186355093546CD8bXnkHwzwcs1N											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1418635510069LNAQX54zyYRE1zN5											
+1042803610	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1421416148013hydnNfIUbBAP62IP											
+1038214712				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65371										
+1038214712				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65372										
+1038219104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64994										
+1038219104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64995										
+1038219104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64996										
+1038219104				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64997										
+1038075944				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65204										
+1038075944				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65205										
+1038076046				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80149										
+1038080432				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65265										
+1038080432				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65266										
+1038085712				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106675										
+1038085712				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106676										
+1038085712				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106677										
+1038085712				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106678										
+1038105092				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65630										
+1038105092				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65631										
+1038125807				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84466										
+1038125807				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84467										
+1038125807				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84468										
+1038125942				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90839										
+1038154223				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65356										
+1038154223				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65358										
+1038174713				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80365										
+1038184778				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79896										
+1038185177				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85627										
+1038185177				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85629										
+1038185177				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85631										
+1038198740				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65407										
+1038198740				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65408										
+1038199235				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80404										
+1038020933				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65526										
+1038020933				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65527										
+1038022388				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103064										
+1038022388				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103065										
+1038022388				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103066										
+1038022388				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103067										
+1038022388				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103068										
+1038032057				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85615										
+1038032057				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85617										
+1038032057				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85619										
+1038051722				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80118										
+1038061523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84712										
+1038061523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84714										
+1038061523				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84716										
+1038063965				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65286										
+1038063965				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65287										
+1039439741				http://deliver.odai.yale.edu/content/repository/YPM/id/409361/format/3										
+885896353				http://collections.mnh.si.edu/media/index.php?irn=3011245										
+885912688				http://collections.mnh.si.edu/media/index.php?irn=3011242										
+886061358				http://collections.mnh.si.edu/media/index.php?irn=3009526										
+883603582				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+883603612				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+883604008				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+886013115				http://collections.mnh.si.edu/media/index.php?irn=3009508										
+883889789				http://collections.mnh.si.edu/media/index.php?irn=10000056										
+317834736				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8255		zoomable image								
+317834736	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8255.jpg			thumbnail								
+317834736				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8257		zoomable image								
+317834736	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8257.jpg			thumbnail								
+317834736				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8258		zoomable image								
+317834736	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8258.jpg			thumbnail								
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117805277ILfZhLFtpgpjoM9Q										cc-by-nc-nd	
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061178067881DMLA1WEjJ8oXbwC										cc-by-nc-nd	
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117807551S7EpdXYyENXMpcfd										cc-by-nc-nd	
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117808323w5iYO4FFEaGOyjrL										cc-by-nc-nd	
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061178091251K3QXYvuhGYgBLVR										cc-by-nc-nd	
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117810058fxpE3U1525F8RxI7										cc-by-nc-nd	
+1019444371	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117813545nIeU2c6hRQM5NlEc										cc-by-nc-nd	
+1038060930				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85143										
+1038060930				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85145										
+1038060930				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85147										
+1038060963				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64689										
+1038060963				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64690										
+1038060963				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64691										
+1038075945				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65214										
+1038075945				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65215										
+1038078849				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65284										
+1038078849				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65285										
+1038097860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64479										
+1038097860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64480										
+1038097860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64481										
+1038107103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84607										
+1038107103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84609										
+1038107103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84611										
+1038107103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84613										
+1038107103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84615										
+1038130758				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80358										
+1038131883				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65586										
+1038131883				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65587										
+1038152145				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84967										
+1038152145				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84969										
+1038152145				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84971										
+1038154323				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79933										
+1038154785				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85591										
+1038154785				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85593										
+1038154785				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85595										
+1038165903				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64284										
+1038165903				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64288										
+1038165903				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64544										
+1038181905				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80123										
+1038187026				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84601										
+1038187026				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84603										
+1038187026				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84605										
+1038188973				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85720										
+1038188973				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85721										
+1038188973				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85722										
+1037977086				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65304										
+1037977086				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65306										
+1037977086				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65775										
+1037994999				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80354										
+1038026118				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80405										
+1038026187				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80101										
+1038028527				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90790										
+884963706				http://collections.mnh.si.edu/media/index.php?irn=3009425										
+883883157				http://collections.mnh.si.edu/media/index.php?irn=3009432										
+883896522				http://collections.mnh.si.edu/media/index.php?irn=3009431										
+885969585				http://collections.mnh.si.edu/media/index.php?irn=3009426										
+886061693				http://collections.mnh.si.edu/media/index.php?irn=3009526										
+885535764				http://collections.mnh.si.edu/media/index.php?irn=3009466										
+1038032059				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65694										
+1038032059				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65695										
+1038032059				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65696										
+1038035887				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80124										
+1038060928				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85548										
+1038060928				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85550										
+1038075946				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65187										
+1038075946				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65188										
+1038075946				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65189										
+1038076051				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80214										
+1038079117				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64475										
+1038079117				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64476										
+1038079117				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64574										
+1038145579				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81914										
+1038180097				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102829										
+1038180097				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102830										
+1038180097				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102831										
+1038180097				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102832										
+1038180097				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102833										
+1038181450				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79952										
+1038183661				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85232										
+1038183661				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85234										
+1038183661				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85236										
+1038193000				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80109										
+1038193099				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80008										
+1038212239				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80063										
+1038218806				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64766										
+1038218806				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64767										
+1038219667				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102759										
+1038219667				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102760										
+1038219667				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102761										
+1038219667				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102762										
+1038219667				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102763										
+1038219667				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102764										
+1037977087				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65322										
+1037977087				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65419										
+1038026188				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80403										
+1038028528				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90712										
+1045030567				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106695										
+883602201				http://collections.mnh.si.edu/media/index.php?irn=3011315										
+883900617				http://collections.mnh.si.edu/media/index.php?irn=3009505										
+1045068655				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65699										
+1059584060				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64570										
+1059584060				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64571										
+1059584060				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64572										
+1038060934				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85137										
+1038060934				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85139										
+1038060934				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85141										
+1038068170				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65745										
+1038068170				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65746										
+1038075949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65210										
+1038075949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65211										
+1038075949				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65213										
+1038082714				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80260										
+1038110404				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85167										
+1038110404				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85169										
+1038110404				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85171										
+1038130402				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102685										
+1038130402				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102686										
+1038130402				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102687										
+1038130402				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102688										
+1038154198				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65614										
+1038154198				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65615										
+1038205285				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65433										
+1038205285				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65434										
+1038211192				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64757										
+1038211192				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64758										
+1038211192				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64759										
+1038211192				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64896										
+1038212146				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79806										
+1038214948				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81933										
+1038221515				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102844										
+1038221515				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102845										
+1038221515				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102846										
+1038221515				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102847										
+1038221515				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102848										
+1037977390				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84579										
+1037977390				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84581										
+1037977390				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84583										
+1037977390				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84584										
+1037977390				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84586										
+1037977390				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84588										
+1038025531				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64477										
+1038025531				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64478										
+1038025531				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64833										
+1038026062				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79888										
+1038035758				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79947										
+1038037738				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85536										
+1038037738				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85538										
+1038037738				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85540										
+885934083				http://collections.mnh.si.edu/media/index.php?irn=3009414										
+885684043				http://collections.mnh.si.edu/media/index.php?irn=3009434										
+885888706				http://collections.mnh.si.edu/media/index.php?irn=3011275										
+885896233				http://collections.mnh.si.edu/media/index.php?irn=3011319										
+883584187				http://collections.mnh.si.edu/media/index.php?irn=3011315										
+885966361				http://collections.mnh.si.edu/media/index.php?irn=3009402										
+317834684				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7800		zoomable image								
+317834684	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7800.jpg			thumbnail								
+317834684				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7801		zoomable image								
+317834684	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7801.jpg			thumbnail								
+317834684				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7802		zoomable image								
+317834684	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7802.jpg			thumbnail								
+1045030577				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90764										
+1045033448				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85799										
+1045033448				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85800										
+1045033448				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85801										
+1045068860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64914										
+1045068860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64915										
+1045068860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64945										
+1045068860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64946										
+1039430969				http://deliver.odai.yale.edu/content/repository/YPM/id/348185/format/3										
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117575267GrD4u1IjlFnjhCbx										cc-by-nc-nd	
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117576911Z0YntIgoq0u8KlaL										cc-by-nc-nd	
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117577715X07dwD8xHIhLOEAh										cc-by-nc-nd	
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117578409d0135mguuHNlljKa										cc-by-nc-nd	
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117579601u95UpaJ4XJzzeSqm										cc-by-nc-nd	
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406117898952hvdrLpPhNP0lDwTk										cc-by-nc-nd	
+1019444346	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118147920kmXGfD3R7rrSaE0W										cc-by-nc-nd	
+1059588024				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64354										
+1059588024				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64355										
+1059588024				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64357										
+1059588024				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64358										
+1059588024				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64359										
+1038092849				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81971										
+1038105233				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64310										
+1038105233				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64311										
+1038105233				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64312										
+1038133379				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102824										
+1038133379				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102825										
+1038133379				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102826										
+1038133379				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102827										
+1038133379				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102828										
+1038154202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65359										
+1038154202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65360										
+1038154763				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85587										
+1038154763				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85845										
+1038154763				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85846										
+1038168755				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90867										
+1038193142				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80317										
+1038197069				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102935										
+1038197069				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102936										
+1038197069				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102937										
+1038197069				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102938										
+1038197069				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102939										
+1038197069				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102940										
+1038204002				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79837										
+1038208820				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80240										
+1038212186				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79935										
+1038218786				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81979										
+1038020882				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65530										
+1038020882				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65531										
+1038032201				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79953										
+1038036029				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80233										
+1038046718				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85640										
+1038046718				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85641										
+1038046718				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85642										
+1038061568				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81996										
+1038068204				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65747										
+1038068204				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65748										
+1038072494				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102787										
+1038072494				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102788										
+1038072494				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102789										
+1038072494				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102790										
+1038072494				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102791										
+1038072494				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102792										
+1038075989				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80165										
+1038075992				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65179										
+1038075992				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65180										
+317834784				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7991		zoomable image								
+317834784	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7991.jpg			thumbnail								
+317834784				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7992		zoomable image								
+317834784	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7992.jpg			thumbnail								
+317834784				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7994		zoomable image								
+317834784	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7994.jpg			thumbnail								
+1045030581				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90770										
+1045037805				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80396										
+1039429326				http://deliver.odai.yale.edu/content/repository/YPM/id/348534/format/3										
+1059588025				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79967										
+1059595384				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79901										
+1038086487				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81934										
+1038142356				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106521										
+1038142356				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106547										
+1038142356				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106548										
+1038142356				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106549										
+1038143184				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65455										
+1038143184				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65456										
+1038154203				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65350										
+1038154203				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65351										
+1038159813				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65647										
+1038159813				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65648										
+1038159813				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65649										
+1038190371				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79934										
+1038190764				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85717										
+1038190764				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85718										
+1038190764				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85719										
+1038194229				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64857										
+1038194229				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64858										
+1038194229				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64859										
+1038198690				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65388										
+1038198690				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65389										
+1038198690				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65390										
+1037977098				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65313										
+1037977098				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65314										
+1037990358				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79909										
+1037996400				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102834										
+1037996400				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102835										
+1037996400				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102836										
+1037996400				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102837										
+1037996400				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102838										
+1038008250				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80035										
+1038021741				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79840										
+1038047055				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81857										
+1038049860				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80036										
+1038075993				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65181										
+1038075993				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65182										
+885964478				http://collections.mnh.si.edu/media/index.php?irn=3009415										
+883566335				http://collections.mnh.si.edu/media/index.php?irn=3011214										
+883603694				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+883891551				http://collections.mnh.si.edu/media/index.php?irn=3011244										
+883602672				http://collections.mnh.si.edu/media/index.php?irn=1002632										
+883604454				http://collections.mnh.si.edu/media/index.php?irn=3011315										
+317834785				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8154		zoomable image								
+317834785	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8154.jpg			thumbnail								
+317834785				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8155		zoomable image								
+317834785	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8155.jpg			thumbnail								
+317834785				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM8156		zoomable image								
+317834785	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM8156.jpg			thumbnail								
+1059584000				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65431										
+1059584000				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65432										
+1059584132				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80385										
+1045030609				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90816										
+1045030645				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90732										
+1045036915				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65065										
+1045036915				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65066										
+1045036915				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65068										
+1038214894				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81987										
+1038068176				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65753										
+1038068176				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65754										
+1038075994				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65301										
+1038075994				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65302										
+1038086491				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79983										
+1038094243				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64557										
+1038094243				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64558										
+1038094243				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64559										
+1038105103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65760										
+1038105103				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65761										
+1038115432				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65546										
+1038115432				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65547										
+1038133384				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102614										
+1038133384				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102615										
+1038133384				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102616										
+1038133384				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102617										
+1038133384				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102618										
+1038163147				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81929										
+1038164074				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85542										
+1038164074				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85544										
+1038164074				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85546										
+1038184825				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80171										
+1038199252				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81965										
+1037995048				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90762										
+1038021148				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64368										
+1038021148				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64390										
+1038021148				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64392										
+1038021148				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64394										
+1038021148				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64395										
+1038034939				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65453										
+1038034939				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65454										
+1038035929				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81990										
+1038036133				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80399										
+1038037846				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90793										
+1038061012				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64777										
+1038061012				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64778										
+1038061012				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64779										
+1038061078				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90664										
+1045033059				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81954										
+1059587959				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64659										
+1059587959				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64660										
+1059587959				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64661										
+317834787				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7810		zoomable image								
+317834787	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7810.jpg			thumbnail								
+317834787				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7811		zoomable image								
+317834787	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7811.jpg			thumbnail								
+317834787				http://biology.africamuseum.be/STERNAImages/Ornithology/SternaRMCADetails.php?image=_PHM7813		zoomable image								
+317834787	StillImage	image/jpeg	http://biology.africamuseum.be/STERNAImages/Ornithology/t__PHM7813.jpg			thumbnail								
+1038032139				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65697										
+1038032139				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65698										
+1038060978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64809										
+1038060978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64810										
+1038060978				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64811										
+1038082662				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85292										
+1038082662				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85293										
+1038082662				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85295										
+1038086493				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79878										
+1038124050				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65165										
+1038124050				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65273										
+1038124674				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81960										
+1038141930				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79930										
+1038154206				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65487										
+1038154206				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65488										
+1038174141				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79883										
+1038202983				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65612										
+1038202983				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65613										
+1038203085				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64695										
+1038203085				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64696										
+1038203085				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64697										
+883890893				http://collections.mnh.si.edu/media/index.php?irn=3011318										
+885970193				http://collections.mnh.si.edu/media/index.php?irn=3009427										
+886011088				http://collections.mnh.si.edu/media/index.php?irn=3009461										
+883891516				http://collections.mnh.si.edu/media/index.php?irn=10000526										
+885014935				http://collections.mnh.si.edu/media/index.php?irn=3009473										
+886118469				http://collections.mnh.si.edu/media/index.php?irn=3009433										
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406111707393wwjvu9RsZdz3mrgF										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/140611342041263RCrOQlWSWHtoRP										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113421907EIBtSJhrEjCBcn2q										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113423977jA89xftEZJ4ujHcE										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113425302Ob3HXNWzanz6KyMU										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113425858dEndqjy1dUrjfqHH										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406113426386djD3DsTXXcE5JK4W										cc-by-nc-nd	
+730516982	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406116832081gHdRU5IuOlzveV3w										cc-by-nc-nd	
+1045022531				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90841										
+1039437152				http://deliver.odai.yale.edu/content/repository/YPM/id/409456/format/3										
+1056115891	StillImage	image/jpeg	http://www.nhm.ac.uk/emu-classes/class.EMuMedia.php?irn=81247&image=yes&width=705&height=552		BBOC_liii_p136_1933								http://creativecommons.org/licenses/by/4.0/	The Trustees of the Natural History Museum, London
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118805836ckc0PqS8VWFv1buj										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118808041crmtIRiEnsT9uqFf										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118832181lYTSwOAT0U2l9MD3										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118833116IUuqV50PkcmjTzI9										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118833787CowFRBVCIW3OekH6										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118834423DnaYDr2WMCzfYDFN										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1406118835036nZ3Syd7BqQM6AsoZ										cc-by-nc-nd	
+1019444514	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/14061188356631H71B5y2GPmKXlBZ										cc-by-nc-nd	
+1059595188				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65532										
+1059595188				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65533										
+1038212291				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80200										
+1038214697				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85702										
+1038214697				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85703										
+1038214697				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85704										
+1038215456				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64893										
+1038215456				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64894										
+1038215456				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64895										
+1038221066				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85457										
+1038221066				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85459										
+1038221066				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85461										
+1038138371				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65536										
+1038138371				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65537										
+1038154304				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80043										
+1038154733				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85404										
+1038154733				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85406										
+1038154733				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85408										
+1038154766				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85597										
+1038154766				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85599										
+1038154766				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85601										
+1038165854				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65464										
+1038165854				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65465										
+1038190766				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65688										
+1038190766				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65689										
+1037977070				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65320										
+1037977070				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65321										
+1037994785				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65308										
+1037994785				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65310										
+1037994785				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65311										
+1037998484				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80074										
+1038008249				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79942										
+1038015182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106561										
+1038015182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106562										
+1038015182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106563										
+1038015182				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106564										
+1038015209				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106652										
+1038015209				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106653										
+1038015209				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106654										
+1038015209				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106655										
+1038025541				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64753										
+1038025541				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64754										
+1038025541				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64755										
+1038025541				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64756										
+1038061046				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64780										
+1038061046				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64781										
+1038061046				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64782										
+1038072497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103013										
+1038072497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103014										
+1038072497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103015										
+1038072497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103016										
+1038072497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103017										
+1038072497				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=103018										
+1038080450				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65624										
+1038080450				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65625										
+1038086492				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81943										
+1038097676				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85649										
+1038097676				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85650										
+1038097676				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85651										
+1038115433				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79786										
+1059584036				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64460										
+1059584036				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64461										
+1059584036				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64462										
+885964980				http://collections.mnh.si.edu/media/index.php?irn=3009405										
+1019804486	StillImage	image/jpeg	http://mediaphoto.mnhn.fr/media/1397554586250Ue0TQJOtaGjB69gG					Christian LEMZAOUDA					cc-by-nc-nd	
+1037995021				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80209										
+1038005116				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64671										
+1038005116				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64672										
+1038005116				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64673										
+1038008191				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79863										
+1038011977				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65540										
+1038011977				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65541										
+1038012538				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79887										
+1038035836				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=82004										
+1038051580				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79824										
+1038075997				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65190										
+1038075997				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65191										
+1038075997				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65192										
+1038086032				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80322										
+1038086524				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80282										
+1038215458				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64251										
+1038215458				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64252										
+1038215458				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64253										
+1038215458				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64254										
+1038215458				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64255										
+1038217177				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80326										
+1038107089				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102871										
+1038107089				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102872										
+1038107089				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102873										
+1038107089				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102874										
+1038107089				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102875										
+1038115468				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90694										
+1038120910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102889										
+1038120910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102890										
+1038120910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102891										
+1038120910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102892										
+1038120910				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102893										
+1038124051				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65267										
+1038124051				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65269										
+1038132232				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80343										
+1038142918				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85524										
+1038142918				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85526										
+1038142918				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85528										
+1038151567				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85410										
+1038151567				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85412										
+1038151567				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85414										
+1038154207				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65620										
+1038154207				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65762										
+1038154210				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65353										
+1038154210				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65355										
+1038159886				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79871										
+1038168763				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90857										
+1038171532				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85790										
+1038171532				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85791										
+1038171532				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85792										
+1038190735				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85073										
+1038190735				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85075										
+1038190735				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85077										
+885723913				http://collections.mnh.si.edu/media/index.php?irn=3008137										
+883571062				http://collections.mnh.si.edu/media/index.php?irn=10000064										
+1038211202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64763										
+1038211202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64764										
+1038211202				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64765										
+1038214832				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64729										
+1038214832				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64730										
+1038214832				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64898										
+1038068183				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65755										
+1038068183				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65756										
+1038068183				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65757										
+1038105077				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65634										
+1038105077				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65635										
+1038110420				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84664										
+1038110420				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84666										
+1038110420				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84668										
+1038124049				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65783										
+1038124049				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65784										
+1038124049				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65785										
+1038152129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102806										
+1038152129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102807										
+1038152129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102808										
+1038152129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102809										
+1038152129				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=102810										
+1038154208				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65621										
+1038154208				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65622										
+1038183512				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=81931										
+1038183677				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106590										
+1038183677				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106591										
+1038183677				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106592										
+1038183677				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=106594										
+1038189914				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85609										
+1038189914				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85611										
+1038189914				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85613										
+1038195164				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65329										
+1038195164				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65330										
+1038203087				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79826										
+1037991161				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85309										
+1037991161				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85311										
+1037991161				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=85313										
+1038005120				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64674										
+1038005120				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64675										
+1038005120				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=64676										
+1038008255				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80139										
+1038008516				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84499										
+1038008516				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84501										
+1038008516				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84503										
+1038011981				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65670										
+1038011981				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65671										
+1038026174				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79920										
+1038028022				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84658										
+1038028022				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84660										
+1038028022				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=84662										
+1038032207				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=80076										
+1038035774				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79976										
+1038036005				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=79995										
+1038046037				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65048										
+1038046037				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65049										
+1038046037				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65050										
+1038046037				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=65051										
+1045030586				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90649										
+1045030649				http://www.biologie.uni-ulm.de/cgi-bin/perl/bild.pl?sid=T&mode=thumb&objid=90675										
