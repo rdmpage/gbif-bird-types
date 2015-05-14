@@ -65,6 +65,14 @@ $keys = array();
 
 $ion_count = 0;
 
+echo '<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+</head>
+<body>';
+
 echo '<table>';
 echo "\n";
 
@@ -187,10 +195,7 @@ while (!feof($file_handle))
 	
 	if ($row_count == 10)
 	{
-		echo '</table>';
-		echo '<p>' . $row_count . ' GBIF records, ' . $ion_count . ' (' . (100 * $ion_count/$row_count) . '%) in ION' . '</p>';
-
-		exit();
+		break;
 	}
 	
 	$row_count++;		
@@ -199,6 +204,9 @@ while (!feof($file_handle))
 echo "</table>\n";
 
 echo '<p>' . $row_count . ' GBIF records, ' . $ion_count . ' (' . (100 * $ion_count/$row_count) . '%) in ION' . '</p>';
+
+echo '</body>
+</html>';
 
 ?>
 
