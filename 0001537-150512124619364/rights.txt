@@ -1,0 +1,28 @@
+
+
+Dataset: DMNH Birds
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/ and http://www.vertnet.org/resources/norms.html
+
+Dataset: Ornithology Collection Passeriformes - Royal Ontario Museum
+Rights as supplied: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported (CC BY-NC 4.0) License https://creativecommons.org/licenses/by-nc/4.0/
+
+Dataset: ORN
+Rights as supplied: Not supplied
+
+Dataset: Vertebrate Paleontology Division, Yale Peabody Museum
+Rights as supplied: Not supplied
+
+Dataset: AMNH Bird Collection
+Rights as supplied: The terms and conditions of use of AMNH data are given in the document found at http://research.amnh.org/vertzoo/TandC.pdf.
+
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: Copyright © 2012 The President and Fellows of Harvard College
+
+Dataset: UMMZ Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0
+
+Dataset: NMNH occurrence DwC-A
+Rights as supplied: NMNH public data constitute a compilation of data, all rights to which, including copyright, are owned by the Smithsonian Institution. Except as otherwise expressly stated at http://www.mnh.si.edu/rc/db/2data_access_policy.html, the information, records, or images in these databases may not be reproduced, distributed, or publicly displayed, in whole or in part, without the express written permission of the National Museum of Natural History, Smithsonian Institution.
+
+Dataset: Ornithology Collection Non Passeriformes - Royal Ontario Museum
+Rights as supplied: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported (CC BY-NC 4.0) License https://creativecommons.org/licenses/by-nc/4.0/

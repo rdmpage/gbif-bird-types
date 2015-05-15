@@ -54,7 +54,9 @@ function bionames($canonical)
 
 //--------------------------------------------------------------------------------------------------
 
-$basedir = '0000368-150512124619364';
+$basedir = '0000368-150512124619364'; // holotypes
+$basedir = '0001537-150512124619364'; // cotypes
+
 $filename = $basedir . '/' . 'occurrence.txt';
 
 $row_count = 0;
@@ -192,11 +194,12 @@ while (!feof($file_handle))
 		
 	}
 	
-	
+	/*
 	if ($row_count == 10)
 	{
 		break;
 	}
+	*/
 	
 	$row_count++;		
 }

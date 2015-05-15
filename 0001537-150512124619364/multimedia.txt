@@ -1,0 +1,9 @@
+gbifID	type	format	identifier	references	title	description	created	creator	contributor	publisher	audience	source	license	rightsHolder
+884053795				http://collections.mnh.si.edu/media/index.php?irn=10261073										
+884685143				http://collections.mnh.si.edu/media/index.php?irn=4001293										
+883959768				http://collections.mnh.si.edu/media/index.php?irn=4001288										
+883959743				http://collections.mnh.si.edu/media/index.php?irn=4001288										
+884685130				http://collections.mnh.si.edu/media/index.php?irn=4001292										
+888931334				http://collections.mnh.si.edu/media/index.php?irn=4001298										
+863368790	StillImage	image/jpeg	http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/hummingbirds_and_maps_rotr.jpg											
+863368790	StillImage	image/jpeg	http://mczbase.mcz.harvard.edu/specimen_images/ornithology/large/hummingbirds_numbers_rotr.jpg											
